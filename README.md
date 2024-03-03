@@ -1,6 +1,6 @@
 # StructInstanceUnit
 This project is an exercise to solve a prevalent issue when using Structs in Unreal Engine for unit data.
-Its here as a back up, a prelude for an ECS system I might use in the future.
+Its here as a back up and prelude for an ECS system I might use in the future.
 
 Normally units use the class AActor.
 But when using instances of Instanced Static Mesh Component, its not worth it to use Actors because they already have a world representation.
